@@ -1,29 +1,17 @@
-# Foobar
+Code Refactor
 
-Foobar is a Python library for dealing with word pluralization.
+Overview:
+This was my first homework assignment. In this assignment I worked with semantic elements, to better organize the HTML document, and simplify the CSS.
 
-## Installation
+Features- This page has three link's that currently work. They will navigate you to a different section in the main.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Acknowledgment
 
-```bash
-pip install foobar
-```
+This article really helped me with my first homework assignment.
+https://www.freecodecamp.org/news/semantic-html5-elements/
 
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+![code refactor](https://user-images.githubusercontent.com/52182873/94378319-e25a1f80-00e5-11eb-9c3f-8ba71f062f46.png)
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
